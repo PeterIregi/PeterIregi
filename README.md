@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Peter Iregi
 
-<!--
-**PeterIregi/PeterIregi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Go • AI • Machine Learning**
 
-Here are some ideas to get you started:
+Based in **Kisumu, Kenya 🇰🇪**  
+Building fast systems, learning how machines think.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Focus
+- Go backend development  
+- AI & Machine Learning fundamentals  
+- Scalable APIs & system design  
+
+---
+
+## 🛠️ Tech
+**Go · Python · Linux · Git · Docker**  
+**NumPy · Pandas · scikit-learn · TensorFlow**
+
+---
+
+## 🎯 Goals
+- Ship production-ready Go services  
+- Grow deep in AI & ML  
+- Contribute to open source  
+- Master performance & systems thinking  
+
+---
+
+## 📬 Contact
+📧 **iregipeter4@gmail.com**  
+📍 **Kisumu | Zone01**
+
+> *Build simply. Scale deliberately.*

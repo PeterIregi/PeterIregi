@@ -1,22 +1,20 @@
 # 👋 Hi, I'm Peter Iregi
 
-**Software Developer | Go • AI • Machine Learning**
+**Software Developer | Go 
 
 Based in **Kisumu, Kenya 🇰🇪**  
-Building fast systems, learning how machines think.
+Building fast and scalable systems, learning how machines think.
 
 ---
 
 ## 🧠 Focus
-- Go backend development  
-- AI & Machine Learning fundamentals  
+- Go backend development   
 - Scalable APIs & system design  
 
 ---
 
 ## 🛠️ Tech
-**Go · Python · Linux · Git · Docker**  
-**NumPy · Pandas · scikit-learn · TensorFlow**
+**Go 
 
 ---
 

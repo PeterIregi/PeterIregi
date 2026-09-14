@@ -2,7 +2,6 @@
 
 **Software Developer | Go 
 
-Based in **Kisumu, Kenya 🇰🇪**  
 Building fast and scalable systems, learning how machines think.
 
 ---
@@ -19,8 +18,7 @@ Building fast and scalable systems, learning how machines think.
 ---
 
 ## 🎯 Goals
-- Ship production-ready Go services  
-- Grow deep in AI & ML  
+- Ship production-ready Go services    
 - Contribute to open source  
 - Master performance & systems thinking  
 
@@ -28,6 +26,5 @@ Building fast and scalable systems, learning how machines think.
 
 ## 📬 Contact
 📧 **iregipeter4@gmail.com**  
-📍 **Kisumu | Zone01**
 
 > *Build simply. Scale deliberately.*

@@ -1,30 +1,34 @@
-# 👋 Hi, I'm Peter Iregi
+# Hi, I'm Peter Iregi
 
-**Software Developer | Go 
+**Software Developer | Go, Java, JavaScript, React**
 
-Building fast and scalable systems, learning how machines think.
-
----
-
-## 🧠 Focus
-- Go backend development   
-- Scalable APIs & system design  
+Building fast, scalable systems and clean user interfaces.
 
 ---
 
-## 🛠️ Tech
-**Go 
+## Focus
+- Go backend development
+- Scalable APIs and system design
+- Java application development
+- Frontend development with JavaScript and React
 
 ---
 
-## 🎯 Goals
-- Ship production-ready Go services    
-- Contribute to open source  
-- Master performance & systems thinking  
+## Tech
+**Backend:** Go, Java
+**Frontend:** JavaScript, React
 
 ---
 
-## 📬 Contact
-📧 **iregipeter4@gmail.com**  
+## Goals
+- Ship production-ready Go services
+- Build responsive, user-friendly React applications
+- Contribute to open source
+- Master performance and systems thinking
+
+---
+
+## Contact
+**iregipeter4@gmail.com**
 
 > *Build simply. Scale deliberately.*
